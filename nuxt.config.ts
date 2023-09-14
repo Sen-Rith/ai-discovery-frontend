@@ -17,7 +17,7 @@ export default defineNuxtConfig({
         {
           property: "og:description",
           content:
-            "Phantom Mail is a secure and private temporary email service that allows you to generate custom email addresses with custom expiration times. Our service uses end-to-end encryption to protect your messages from prying eyes, ensuring that your privacy is always our top priority. With Phantom Mail, you can easily create a new email address and start receiving emails today!",
+            "Discover AI: Your one-stop platform for exploring a wide range of Artificial Intelligence services. Uncover the latest advancements, understand their applications, and find the perfect AI solution for your needs.",
         },
         {
           property: "og:image",
@@ -26,7 +26,7 @@ export default defineNuxtConfig({
         {
           name: "description",
           content:
-            "Phantom Mail is a secure and private temporary email service that allows you to generate custom email addresses with custom expiration times. Our service uses end-to-end encryption to protect your messages from prying eyes, ensuring that your privacy is always our top priority. With Phantom Mail, you can easily create a new email address and start receiving emails today!",
+            "Discover AI: Your one-stop platform for exploring a wide range of Artificial Intelligence services. Uncover the latest advancements, understand their applications, and find the perfect AI solution for your needs.",
         },
       ],
     },
@@ -52,4 +52,4 @@ export default defineNuxtConfig({
       "process.env.DEBUG": false,
     },
   },
-})
+});
