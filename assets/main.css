@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "VT323-Regular";
+  src: url("./fonts/VT323-Regular.ttf") format("truetype");
+  font-display: swap;
+}
+
+html {
+  font-family: "VT323-Regular";
+}
+
+.v-field {
+  font-size: 24px !important;
+}
+
+.v-messages {
+  font-size: 20px !important;
+}
